@@ -52,7 +52,7 @@ ret.corr()
 
 ![image](https://user-images.githubusercontent.com/113868226/202026656-10b1ede7-7daf-4750-8e9e-d37e673604bb.png)
 
-Using seaborn module to plot the Heat Map
+Using seaborn module to plot the Heat Map to visualize the observed correlation
 
 ![image](https://user-images.githubusercontent.com/113868226/202026708-b1b74c2f-ac77-43e6-bd4d-e0c12da4b3e2.png)
 
