@@ -43,14 +43,13 @@ norm = close.div(close.iloc[0]).mul(100)
 ![image](https://user-images.githubusercontent.com/113868226/202026166-1ecce53d-eb8f-4d2a-8b97-28fe09927a62.png)
 
 Calculating Covariance and Correlation between the pricing volatility associated with the stocks
-ret.head()
-
-![image](https://user-images.githubusercontent.com/113868226/202026531-dada585e-a805-41cd-9d71-02d8f4abc4fe.png)
 
 ret.cov()
+
 ![image](https://user-images.githubusercontent.com/113868226/202026607-8eaeed21-3286-4a5a-bf44-aed6022b040f.png)
 
 ret.corr()
+
 ![image](https://user-images.githubusercontent.com/113868226/202026656-10b1ede7-7daf-4750-8e9e-d37e673604bb.png)
 
 Using seaborn module to plot the Heat Map
